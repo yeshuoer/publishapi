@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "shelljs": "^0.8.2"
+  },
+  "name": "auto-publish",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "supervisor app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshuoer/auto-publish.git"
+  },
+  "author": "yeshuoer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeshuoer/auto-publish/issues"
+  },
+  "homepage": "https://github.com/yeshuoer/auto-publish#readme"
+}
